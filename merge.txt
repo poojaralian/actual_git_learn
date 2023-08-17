@@ -1,1 +1,3 @@
 how actuall merge file with main branch
+
+this file added for learn actual_git_learn
